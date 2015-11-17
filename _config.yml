@@ -1,0 +1,2 @@
+php_path: __DIR__/../.php/
+include: [.index.php, .php]
